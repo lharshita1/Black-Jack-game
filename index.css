@@ -1,0 +1,30 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url('bj.jpg');
+    color: aliceblue;
+    text-align: center;
+    background-size: cover;
+    font-weight: bolder;
+}
+
+h1{
+    color:rgb(241, 251, 108);
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    background-color: rgb(241, 251, 108);
+    padding: 20px;
+    color: green ;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 4px;
+    display:flex
+    align-self: center;
+    order :1
+
+   
+
+}
